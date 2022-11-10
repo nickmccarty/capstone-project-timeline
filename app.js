@@ -29,14 +29,14 @@
     task: "prepare the data",
     type: "scrub",
     startTime: "2022-11-15",
-    endTime: "2022-12-16",
+    endTime: "2022-12-31",
     // details: "all three lines of it"
   },
   {
     task: "explore the data",
     type: "explore",
     startTime: "2022-12-1",
-    endTime: "2022-12-16",
+    endTime: "2022-12-31",
     // details: "This counts, right?"
   },
   {
@@ -49,7 +49,7 @@
   {
     task: "fine-tune the system",
     type: "model",
-    startTime: "2022-12-16",
+    startTime: "2023-1-1",
     endTime: "2023-1-6"
   },
   {
