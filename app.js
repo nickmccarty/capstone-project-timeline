@@ -36,7 +36,7 @@
     task: "explore the data",
     type: "explore",
     startTime: "2022-12-1",
-    endTime: "2022-12-31",
+    endTime: "2022-12-16",
     // details: "This counts, right?"
   },
   {
