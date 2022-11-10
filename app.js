@@ -22,21 +22,21 @@
     task: "get the data",
     type: "obtain",
     startTime: "2022-11-15",
-    endTime: "2022-11-30",
+    endTime: "2022-12-16",
     // details: "No sketching either, really"
   },
   {
     task: "prepare the data",
     type: "scrub",
     startTime: "2022-11-15",
-    endTime: "2022-12-1",
+    endTime: "2022-12-16",
     // details: "all three lines of it"
   },
   {
     task: "explore the data",
     type: "explore",
     startTime: "2022-12-1",
-    endTime: "2022-12-9",
+    endTime: "2022-12-16",
     // details: "This counts, right?"
   },
   {
