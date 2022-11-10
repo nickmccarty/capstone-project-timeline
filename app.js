@@ -55,7 +55,7 @@
   {
     task: "fine-tune the system",
     type: "model",
-    startTime: "2022-12-19",
+    startTime: "2022-12-16",
     endTime: "2023-1-6"
   },
   {
