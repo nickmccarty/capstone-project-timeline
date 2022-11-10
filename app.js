@@ -16,28 +16,28 @@
     type: "obtain",
     startTime: "2022-11-10", //year/month/day
     endTime: "2022-11-30",
-    details: "This actually didn't take any conceptualization"
+    // details: "This actually didn't take any conceptualization"
   },
   {
     task: "get the data",
     type: "obtain",
     startTime: "2022-11-15",
     endTime: "2022-11-30",
-    details: "No sketching either, really"
+    // details: "No sketching either, really"
   },
   {
     task: "prepare the data",
     type: "scrub",
     startTime: "2022-11-15",
     endTime: "2022-12-1",
-    details: "all three lines of it"
+    // details: "all three lines of it"
   },
   {
     task: "explore the data",
     type: "explore",
     startTime: "2022-12-1",
     endTime: "2022-12-9",
-    details: "This counts, right?"
+    // details: "This counts, right?"
   },
   {
     task: "prepare the data",
@@ -50,7 +50,7 @@
     type: "model",
     startTime: "2022-12-9",
     endTime: "2022-12-16",
-    details: "All the things"
+    // details: "All the things"
   },
   {
     task: "fine-tune the system",
@@ -63,7 +63,7 @@
     type: "interpret",
     startTime: "2023-1-6",
     endTime: "2023-1-13",
-    details: "All the things"
+    // details: "All the things"
   }
 ];
 
