@@ -267,7 +267,7 @@ var grid = svg.append('g')
             .attr("stroke", "none")
             .attr("font-size", 10)
             .attr("dy", "1em")
-            .attr("transform", "rotate(-45)");
+            .attr("transform", "rotate(90)");
 }
 
 function vertLabels(theGap, theTopPad, theSidePad, theBarHeight, theColorScale){
