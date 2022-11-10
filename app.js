@@ -43,7 +43,7 @@
     task: "prepare the data",
     type: "explore",
     startTime: "2022-12-9",
-    endTime: "2022-12-16"
+    endTime: "2022-1-6"
   },
   {
     task: "shortlist models",
