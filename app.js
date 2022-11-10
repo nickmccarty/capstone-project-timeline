@@ -47,9 +47,9 @@
     // details: "All the things"
   },
   {
-    task: "fine-tune the system",
+    task: "fine-tuning",
     type: "model",
-    startTime: "2023-1-1",
+    startTime: "2022-12-31",
     endTime: "2023-1-6"
   },
   {
