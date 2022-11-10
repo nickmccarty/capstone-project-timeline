@@ -40,12 +40,6 @@
     // details: "This counts, right?"
   },
   {
-    task: "prepare the data",
-    type: "explore",
-    startTime: "2022-12-9",
-    endTime: "2023-1-6"
-  },
-  {
     task: "shortlist models",
     type: "model",
     startTime: "2022-12-9",
