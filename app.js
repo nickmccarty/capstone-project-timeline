@@ -255,7 +255,7 @@ var xAxis = d3.svg.axis()
     .orient('bottom')
     .ticks(d3.time.days, 1)
     .tickSize(-h+theTopPad+20, 0, 0)
-    .tickFormat(d3.time.format('%d %b'));
+    .tickFormat(d3.time.format('%b %d %Y'));
 
 var grid = svg.append('g')
     .attr('class', 'grid')
@@ -267,7 +267,7 @@ var grid = svg.append('g')
             .attr("stroke", "none")
             .attr("font-size", 10)
             .attr("dy", "1em")
-            .attr("transform", "rotate(90)");
+            .attr("transform", "rotate(-45)");
 }
 
 function vertLabels(theGap, theTopPad, theSidePad, theBarHeight, theColorScale){
