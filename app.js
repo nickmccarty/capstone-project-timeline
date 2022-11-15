@@ -84,7 +84,7 @@ makeGant(taskArray, w, h);
 var title = svg.append("text")
               .text("Apprenticeship Capstone Project Timeline")
               .attr("x", w/2)
-              .attr("y", 25)
+              .attr("y", 40)
               .attr("text-anchor", "middle")
               .attr("font-size", 18)
               .attr("fill", "#009FFC");
@@ -259,14 +259,14 @@ var xAxis = d3.svg.axis()
 
 var grid = svg.append('g')
     .attr('class', 'grid')
-    .attr('transform', 'translate(' +theSidePad + ', ' + (h - 50) + ')')
+    .attr('transform', 'translate(' +theSidePad + ', ' + (h - 22) + ')')
     .call(xAxis)
     .selectAll("text")  
             .style("text-anchor", "middle")
             .attr("fill", "#000")
             .attr("stroke", "none")
             .attr("font-size", 10)
-            .attr("dy", "1em")
+            .attr("dy", "-.4em")
             .attr("transform", "rotate(90)");
 }
 
